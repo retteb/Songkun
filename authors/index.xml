@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Kun Song</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{2020} Kun Song</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Kun Song is a Associate professor of ecology at East China Normal University. His research interests include vegetation science and plant ecolgy, especially for natural forests and urban area in eastern China.&lt;/p&gt;
+&lt;p&gt;宋坤,华东师范大学副教授，从事植被生态学研究，关注中国东部北亚热带自然森林与城市植被。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liangjun Da</title>
+      <link>/authors/liangjun-da/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/liangjun-da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takashi S. Kohyama</title>
+      <link>/authors/takashi-s.-kohyama/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/takashi-s.-kohyama/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
