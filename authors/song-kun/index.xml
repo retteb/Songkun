@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Song Kun | Kun Song</title>
+    <link>/authors/song-kun/</link>
+      <atom:link href="/authors/song-kun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Song Kun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Song Kun</title>
+      <link>/authors/song-kun/</link>
+    </image>
+    
+    <item>
+      <title>Evergreen-Deciduous Broad-Leaved Forest Ecotone in Eastern China: Retrospect and New Perspectives</title>
+      <link>/publication/kun-evergreen-deciduous-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/kun-evergreen-deciduous-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

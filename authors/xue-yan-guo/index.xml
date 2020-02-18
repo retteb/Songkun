@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xue Yan Guo | Kun Song</title>
+    <link>/authors/xue-yan-guo/</link>
+      <atom:link href="/authors/xue-yan-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xue Yan Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Xue Yan Guo</title>
+      <link>/authors/xue-yan-guo/</link>
+    </image>
+    
+    <item>
+      <title>Phylogenetic and functional structures of plant communities along a spatiotemporal urbanization gradient: Effects of colonization and extinction</title>
+      <link>/publication/cui-phylogenetic-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cui-phylogenetic-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

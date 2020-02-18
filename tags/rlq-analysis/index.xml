@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RLQ analysis | Kun Song</title>
+    <link>/tags/rlq-analysis/</link>
+      <atom:link href="/tags/rlq-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>RLQ analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>RLQ analysis</title>
+      <link>/tags/rlq-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Applying trait-based method to investigate the relationship between macrophyte communities and environmental conditions in a eutrophic freshwater lake, China</title>
+      <link>/publication/pan-applying-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pan-applying-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

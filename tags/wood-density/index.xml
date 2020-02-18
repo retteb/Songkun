@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wood density | Kun Song</title>
+    <link>/tags/wood-density/</link>
+      <atom:link href="/tags/wood-density/index.xml" rel="self" type="application/rss+xml" />
+    <description>wood density</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>wood density</title>
+      <link>/tags/wood-density/</link>
+    </image>
+    
+    <item>
+      <title>上海4种常见绿化树种地上生物量模型构建</title>
+      <link>/publication/-4-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/-4-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

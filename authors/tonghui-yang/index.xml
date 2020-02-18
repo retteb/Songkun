@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TongHui Yang | Kun Song</title>
+    <link>/authors/tonghui-yang/</link>
+      <atom:link href="/authors/tonghui-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>TongHui Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Aug 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>TongHui Yang</title>
+      <link>/authors/tonghui-yang/</link>
+    </image>
+    
+    <item>
+      <title>The spatio-temporal pattern of historical disturbances of an evergreen broadleaved forest in East China: a dendroecological analysis</title>
+      <link>/publication/song-spatio-temporal-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/song-spatio-temporal-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The biomass and aboveground net primary productivity of Schima superba-Castanopsis carlesii forests in east China</title>
+      <link>/publication/yang-biomass-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-biomass-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

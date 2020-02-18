@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Kun Song</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{2020} Kun Song</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Kun Song</title>
@@ -311,6 +311,14 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     </item>
     
     <item>
+      <title>安徽大别山木本植物幼树小枝薄壁组织组成特征初探</title>
+      <link>/publication/-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -493,6 +501,38 @@ Three
     </item>
     
     <item>
+      <title>Forest characteristics and population structure of Glyptostrobus pensilis, a globally endangered relict species of southeastern China</title>
+      <link>/publication/tang-forest-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-forest-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic and functional structures of plant communities along a spatiotemporal urbanization gradient: Effects of colonization and extinction</title>
+      <link>/publication/cui-phylogenetic-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cui-phylogenetic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying long-term stable refugia for relict plant species in East Asia</title>
+      <link>/publication/tang-identifying-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-identifying-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation and development in conflict: regeneration of wild Davidia involucrata (Nyssaceae) communities weakened by bamboo management in south-central China</title>
+      <link>/publication/qian-conservation-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/qian-conservation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -508,6 +548,70 @@ Three
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Factors determining zooplankton assemblage difference among a man-made lake, connecting canals, and the water-origin river</title>
+      <link>/publication/zhao-factors-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-factors-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>上海4种常见绿化树种地上生物量模型构建</title>
+      <link>/publication/-4-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/-4-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>上海市人工林土壤理化性质与群落特征的相关性</title>
+      <link>/publication/-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heavy metal contamination of soil and tree-ring in urban forest around highway in Shanghai, China</title>
+      <link>/publication/xu-heavy-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/xu-heavy-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying trait-based method to investigate the relationship between macrophyte communities and environmental conditions in a eutrophic freshwater lake, China</title>
+      <link>/publication/pan-applying-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pan-applying-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metacommunity structure of zooplankton in river networks: Roles of environmental and spatial factors</title>
+      <link>/publication/zhao-metacommunity-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-metacommunity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced effects of biotic interactions on predicting multispecies spatial distribution of submerged macrophytes after eutrophication</title>
+      <link>/publication/song-enhanced-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/song-enhanced-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>再议中国的植被分类系统</title>
+      <link>/publication/-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/-2017/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -676,6 +780,14 @@ Three
     </item>
     
     <item>
+      <title>Evergreen-Deciduous Broad-Leaved Forest Ecotone in Eastern China: Retrospect and New Perspectives</title>
+      <link>/publication/kun-evergreen-deciduous-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/kun-evergreen-deciduous-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -726,16 +838,123 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Transition patterns across an evergreen-deciduous broad-leaved forest ecotone:the effect of topographies</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <title>Community Structure and Survival of Tertiary Relict Thuja sutchuenensis (Cupressaceae) in the Subtropical Daba Mountains, Southwestern China</title>
+      <link>/publication/tang-community-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-community-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution patterns and traits of weed communities along an urban–rural gradient under rapid urbanization in Shanghai, China</title>
+      <link>/publication/tian-distribution-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tian-distribution-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中国常绿阔叶林8大动态监测样地植被的综合比较</title>
+      <link>/publication/-8-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/-8-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>黄浦江上游近自然混交林和人工纯林水源涵养功能评价</title>
+      <link>/publication/-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transition patterns across an evergreen–deciduous broad-leaved forest ecotone: the effect of topographies</title>
+      <link>/publication/song-transition-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/song-transition-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variations in air quality during rapid urbanization in Shanghai, China</title>
+      <link>/publication/xia-variations-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/xia-variations-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The spatio-temporal pattern of historical disturbances of an evergreen broadleaved forest in East China: a dendroecological analysis</title>
+      <link>/publication/song-spatio-temporal-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/song-spatio-temporal-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>米槠-木荷林优势种群的年龄结构及其更新策略</title>
+      <link>/publication/-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The biomass and aboveground net primary productivity of Schima superba-Castanopsis carlesii forests in east China</title>
+      <link>/publication/yang-biomass-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-biomass-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altitudinal zonation of human-disturbed vegetation on Mt. Tianmu, eastern China</title>
+      <link>/publication/da-altitudinal-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/da-altitudinal-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>上海居住区植物多样性的均质化</title>
+      <link>/publication/-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal variations of surface water quality in urban, suburban and rural areas during rapid urbanization in Shanghai, China</title>
+      <link>/publication/wang-temporal-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-temporal-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>浙江天童受损常绿阔叶林实验生态学研究(Ⅱ)：主要常绿树种的生长格局</title>
+      <link>/publication/-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>栲树种群的年龄结构及其生长特征</title>
+      <link>/publication/-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological consequences of rapid urban expansion: Shanghai, China</title>
+      <link>/publication/zhao-ecological-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-ecological-2006/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai-Mei Xia | Kun Song</title>
+    <link>/authors/ai-mei-xia/</link>
+      <atom:link href="/authors/ai-mei-xia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ai-Mei Xia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ai-Mei Xia</title>
+      <link>/authors/ai-mei-xia/</link>
+    </image>
+    
+    <item>
+      <title>Altitudinal zonation of human-disturbed vegetation on Mt. Tianmu, eastern China</title>
+      <link>/publication/da-altitudinal-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/da-altitudinal-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

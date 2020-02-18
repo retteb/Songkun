@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>徐烽 杨 | Kun Song</title>
+    <link>/authors/%E5%BE%90%E7%83%BD-%E6%9D%A8/</link>
+      <atom:link href="/authors/%E5%BE%90%E7%83%BD-%E6%9D%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>徐烽 杨</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>徐烽 杨</title>
+      <link>/authors/%E5%BE%90%E7%83%BD-%E6%9D%A8/</link>
+    </image>
+    
+    <item>
+      <title>浙江天童受损常绿阔叶林实验生态学研究(Ⅱ)：主要常绿树种的生长格局</title>
+      <link>/publication/-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>栲树种群的年龄结构及其生长特征</title>
+      <link>/publication/-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

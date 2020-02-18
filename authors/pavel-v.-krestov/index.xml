@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pavel V. Krestov | Kun Song</title>
+    <link>/authors/pavel-v.-krestov/</link>
+      <atom:link href="/authors/pavel-v.-krestov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pavel V. Krestov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pavel V. Krestov</title>
+      <link>/authors/pavel-v.-krestov/</link>
+    </image>
+    
+    <item>
+      <title>Identifying long-term stable refugia for relict plant species in East Asia</title>
+      <link>/publication/tang-identifying-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-identifying-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

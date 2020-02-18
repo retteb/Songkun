@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qian Yu | Kun Song</title>
+    <link>/authors/qian-yu/</link>
+      <atom:link href="/authors/qian-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qian Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Aug 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Qian Yu</title>
+      <link>/authors/qian-yu/</link>
+    </image>
+    
+    <item>
+      <title>The spatio-temporal pattern of historical disturbances of an evergreen broadleaved forest in East China: a dendroecological analysis</title>
+      <link>/publication/song-spatio-temporal-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/song-spatio-temporal-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

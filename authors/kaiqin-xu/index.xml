@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaiqin Xu | Kun Song</title>
+    <link>/authors/kaiqin-xu/</link>
+      <atom:link href="/authors/kaiqin-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaiqin Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kaiqin Xu</title>
+      <link>/authors/kaiqin-xu/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced effects of biotic interactions on predicting multispecies spatial distribution of submerged macrophytes after eutrophication</title>
+      <link>/publication/song-enhanced-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/song-enhanced-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

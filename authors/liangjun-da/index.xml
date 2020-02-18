@@ -5,7 +5,7 @@
     <link>/authors/liangjun-da/</link>
       <atom:link href="/authors/liangjun-da/index.xml" rel="self" type="application/rss+xml" />
     <description>Liangjun Da</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{2020} Kun Song</copyright><lastBuildDate>Tue, 28 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Liangjun Da</title>
@@ -13,16 +13,83 @@
     </image>
     
     <item>
-      <title>Transition patterns across an evergreen-deciduous broad-leaved forest ecotone:the effect of topographies</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <title>Factors determining zooplankton assemblage difference among a man-made lake, connecting canals, and the water-origin river</title>
+      <link>/publication/zhao-factors-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-factors-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heavy metal contamination of soil and tree-ring in urban forest around highway in Shanghai, China</title>
+      <link>/publication/xu-heavy-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/xu-heavy-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying trait-based method to investigate the relationship between macrophyte communities and environmental conditions in a eutrophic freshwater lake, China</title>
+      <link>/publication/pan-applying-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pan-applying-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metacommunity structure of zooplankton in river networks: Roles of environmental and spatial factors</title>
+      <link>/publication/zhao-metacommunity-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-metacommunity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced effects of biotic interactions on predicting multispecies spatial distribution of submerged macrophytes after eutrophication</title>
+      <link>/publication/song-enhanced-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/song-enhanced-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution patterns and traits of weed communities along an urban–rural gradient under rapid urbanization in Shanghai, China</title>
+      <link>/publication/tian-distribution-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tian-distribution-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The spatio-temporal pattern of historical disturbances of an evergreen broadleaved forest in East China: a dendroecological analysis</title>
+      <link>/publication/song-spatio-temporal-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/song-spatio-temporal-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The biomass and aboveground net primary productivity of Schima superba-Castanopsis carlesii forests in east China</title>
+      <link>/publication/yang-biomass-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-biomass-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal variations of surface water quality in urban, suburban and rural areas during rapid urbanization in Shanghai, China</title>
+      <link>/publication/wang-temporal-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-temporal-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological consequences of rapid urban expansion: Shanghai, China</title>
+      <link>/publication/zhao-ecological-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-ecological-2006/</guid>
+      <description></description>
     </item>
     
   </channel>

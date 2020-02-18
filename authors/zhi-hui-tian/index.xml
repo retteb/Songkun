@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi Hui Tian | Kun Song</title>
+    <link>/authors/zhi-hui-tian/</link>
+      <atom:link href="/authors/zhi-hui-tian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhi Hui Tian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Zhi Hui Tian</title>
+      <link>/authors/zhi-hui-tian/</link>
+    </image>
+    
+    <item>
+      <title>Phylogenetic and functional structures of plant communities along a spatiotemporal urbanization gradient: Effects of colonization and extinction</title>
+      <link>/publication/cui-phylogenetic-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cui-phylogenetic-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

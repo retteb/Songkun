@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>上海 | Kun Song</title>
+    <link>/tags/%E4%B8%8A%E6%B5%B7/</link>
+      <atom:link href="/tags/%E4%B8%8A%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
+    <description>上海</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>上海</title>
+      <link>/tags/%E4%B8%8A%E6%B5%B7/</link>
+    </image>
+    
+    <item>
+      <title>上海居住区植物多样性的均质化</title>
+      <link>/publication/-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

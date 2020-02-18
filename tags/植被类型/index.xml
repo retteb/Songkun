@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>植被类型 | Kun Song</title>
+    <link>/tags/%E6%A4%8D%E8%A2%AB%E7%B1%BB%E5%9E%8B/</link>
+      <atom:link href="/tags/%E6%A4%8D%E8%A2%AB%E7%B1%BB%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>植被类型</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>植被类型</title>
+      <link>/tags/%E6%A4%8D%E8%A2%AB%E7%B1%BB%E5%9E%8B/</link>
+    </image>
+    
+    <item>
+      <title>上海市人工林土壤理化性质与群落特征的相关性</title>
+      <link>/publication/-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

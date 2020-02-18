@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chong-Yun Wang | Kun Song</title>
+    <link>/authors/chong-yun-wang/</link>
+      <atom:link href="/authors/chong-yun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chong-Yun Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Chong-Yun Wang</title>
+      <link>/authors/chong-yun-wang/</link>
+    </image>
+    
+    <item>
+      <title>Forest characteristics and population structure of Glyptostrobus pensilis, a globally endangered relict species of southeastern China</title>
+      <link>/publication/tang-forest-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-forest-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying long-term stable refugia for relict plant species in East Asia</title>
+      <link>/publication/tang-identifying-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-identifying-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

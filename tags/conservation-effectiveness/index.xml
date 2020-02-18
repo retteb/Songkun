@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conservation effectiveness | Kun Song</title>
+    <link>/tags/conservation-effectiveness/</link>
+      <atom:link href="/tags/conservation-effectiveness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conservation effectiveness</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Conservation effectiveness</title>
+      <link>/tags/conservation-effectiveness/</link>
+    </image>
+    
+    <item>
+      <title>Conservation and development in conflict: regeneration of wild Davidia involucrata (Nyssaceae) communities weakened by bamboo management in south-central China</title>
+      <link>/publication/qian-conservation-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/qian-conservation-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

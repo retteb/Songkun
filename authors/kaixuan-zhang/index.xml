@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KaiXuan Zhang | Kun Song</title>
+    <link>/authors/kaixuan-zhang/</link>
+      <atom:link href="/authors/kaixuan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>KaiXuan Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>KaiXuan Zhang</title>
+      <link>/authors/kaixuan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Heavy metal contamination of soil and tree-ring in urban forest around highway in Shanghai, China</title>
+      <link>/publication/xu-heavy-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/xu-heavy-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

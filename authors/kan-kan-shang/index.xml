@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kan-Kan Shang | Kun Song</title>
+    <link>/authors/kan-kan-shang/</link>
+      <atom:link href="/authors/kan-kan-shang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kan-Kan Shang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kan-Kan Shang</title>
+      <link>/authors/kan-kan-shang/</link>
+    </image>
+    
+    <item>
+      <title>Altitudinal zonation of human-disturbed vegetation on Mt. Tianmu, eastern China</title>
+      <link>/publication/da-altitudinal-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/da-altitudinal-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>寒冰 冷 | Kun Song</title>
+    <link>/authors/%E5%AF%92%E5%86%B0-%E5%86%B7/</link>
+      <atom:link href="/authors/%E5%AF%92%E5%86%B0-%E5%86%B7/index.xml" rel="self" type="application/rss+xml" />
+    <description>寒冰 冷</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>寒冰 冷</title>
+      <link>/authors/%E5%AF%92%E5%86%B0-%E5%86%B7/</link>
+    </image>
+    
+    <item>
+      <title>上海4种常见绿化树种地上生物量模型构建</title>
+      <link>/publication/-4-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/-4-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

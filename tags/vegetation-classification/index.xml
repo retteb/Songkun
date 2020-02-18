@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vegetation classification | Kun Song</title>
+    <link>/tags/vegetation-classification/</link>
+      <atom:link href="/tags/vegetation-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>vegetation classification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>vegetation classification</title>
+      <link>/tags/vegetation-classification/</link>
+    </image>
+    
+    <item>
+      <title>再议中国的植被分类系统</title>
+      <link>/publication/-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

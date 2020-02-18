@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geo-accumulation index | Kun Song</title>
+    <link>/tags/geo-accumulation-index/</link>
+      <atom:link href="/tags/geo-accumulation-index/index.xml" rel="self" type="application/rss+xml" />
+    <description>geo-accumulation index</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>geo-accumulation index</title>
+      <link>/tags/geo-accumulation-index/</link>
+    </image>
+    
+    <item>
+      <title>Heavy metal contamination of soil and tree-ring in urban forest around highway in Shanghai, China</title>
+      <link>/publication/xu-heavy-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/xu-heavy-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

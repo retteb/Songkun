@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>建议方案 | Kun Song</title>
+    <link>/tags/%E5%BB%BA%E8%AE%AE%E6%96%B9%E6%A1%88/</link>
+      <atom:link href="/tags/%E5%BB%BA%E8%AE%AE%E6%96%B9%E6%A1%88/index.xml" rel="self" type="application/rss+xml" />
+    <description>建议方案</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>建议方案</title>
+      <link>/tags/%E5%BB%BA%E8%AE%AE%E6%96%B9%E6%A1%88/</link>
+    </image>
+    
+    <item>
+      <title>再议中国的植被分类系统</title>
+      <link>/publication/-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

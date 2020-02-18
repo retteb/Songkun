@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diversity pattern | Kun Song</title>
+    <link>/tags/diversity-pattern/</link>
+      <atom:link href="/tags/diversity-pattern/index.xml" rel="self" type="application/rss+xml" />
+    <description>diversity pattern</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>diversity pattern</title>
+      <link>/tags/diversity-pattern/</link>
+    </image>
+    
+    <item>
+      <title>Distribution patterns and traits of weed communities along an urban–rural gradient under rapid urbanization in Shanghai, China</title>
+      <link>/publication/tian-distribution-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tian-distribution-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

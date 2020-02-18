@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evergreen broadleaved forest | Kun Song</title>
+    <link>/tags/evergreen-broadleaved-forest/</link>
+      <atom:link href="/tags/evergreen-broadleaved-forest/index.xml" rel="self" type="application/rss+xml" />
+    <description>evergreen broadleaved forest</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>evergreen broadleaved forest</title>
+      <link>/tags/evergreen-broadleaved-forest/</link>
+    </image>
+    
+    <item>
+      <title>米槠-木荷林优势种群的年龄结构及其更新策略</title>
+      <link>/publication/-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The biomass and aboveground net primary productivity of Schima superba-Castanopsis carlesii forests in east China</title>
+      <link>/publication/yang-biomass-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-biomass-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

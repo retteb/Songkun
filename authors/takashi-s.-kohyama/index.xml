@@ -5,7 +5,7 @@
     <link>/authors/takashi-s.-kohyama/</link>
       <atom:link href="/authors/takashi-s.-kohyama/index.xml" rel="self" type="application/rss+xml" />
     <description>Takashi S. Kohyama</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{2020} Kun Song</copyright><lastBuildDate>Tue, 28 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Takashi S. Kohyama</title>
@@ -13,16 +13,11 @@
     </image>
     
     <item>
-      <title>Transition patterns across an evergreen-deciduous broad-leaved forest ecotone:the effect of topographies</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <title>Transition patterns across an evergreen–deciduous broad-leaved forest ecotone: the effect of topographies</title>
+      <link>/publication/song-transition-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/song-transition-2014/</guid>
+      <description></description>
     </item>
     
   </channel>

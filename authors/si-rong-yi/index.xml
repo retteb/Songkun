@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Si-Rong Yi | Kun Song</title>
+    <link>/authors/si-rong-yi/</link>
+      <atom:link href="/authors/si-rong-yi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Si-Rong Yi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kun Song</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Si-Rong Yi</title>
+      <link>/authors/si-rong-yi/</link>
+    </image>
+    
+    <item>
+      <title>Identifying long-term stable refugia for relict plant species in East Asia</title>
+      <link>/publication/tang-identifying-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-identifying-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Structure and Survival of Tertiary Relict Thuja sutchuenensis (Cupressaceae) in the Subtropical Daba Mountains, Southwestern China</title>
+      <link>/publication/tang-community-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-community-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
